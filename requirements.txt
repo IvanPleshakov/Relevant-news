@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+re
+nltk
+sklearn
+gensim
+transformers
+IPython
+torch
+datetime
+string
